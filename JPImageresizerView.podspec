@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 专门裁剪图片、GIF、视频的轮子，简单易用、功能丰富（高自由度的参数设定、支持旋转和镜像翻转、多种样式选择等），能满足绝大部分裁剪的需求。
                        DESC
 
-  s.homepage         = 'https://github.com/Rogue24/JPImageresizerView'
+  s.homepage         =  'https://github.com/GDaYao/JPImageresizerView.git' #'https://github.com/Rogue24/JPImageresizerView' #
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'ZhouJianPing' => 'zhoujianping24@hotmail.com' }
